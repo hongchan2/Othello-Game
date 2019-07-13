@@ -17,12 +17,12 @@
 - **사용한 도구 및 라이브러리**
   + ncurses  (GUI 라이브러리)
   + Unix System Call
-  + Visual Studio Code
 
 <br>
 
 + **개발 환경**
   + Ubuntu Linux 16.04
+  + Visual Studio Code
 
 <br>
 
